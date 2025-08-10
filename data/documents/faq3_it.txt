@@ -1,0 +1,13 @@
+Q: What should I do if I lose my access badge?
+A: Report immediately to Security and your manager using the Access Incident Form. A temporary badge will be issued while a replacement is processed. [IT-ACC-011]
+
+Q: How to report a phishing email?
+A: Use the mail app's 'report phishing' button or forward suspicious email to phishing@company.com. IT sec team reviews all submissions. [IT-SEC-017]
+
+Q: How are software updates deployed?
+A: Managed devices receive patches overnight every Wednesday. System restart is required by Thursday 10 AM or access may be restricted. [IT-OPS-034]
+
+Q: Can contractors access the VPN?
+A: Contractors require sponsor approval and must use MFA. VPN access is logged and periodically reviewed for security. [IT-SEC-021]
+
+...(200+ additional entries spanning security, access control, device policies, and IT operations, with codes and URLs)...
