@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  chroma_faq_db:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chroma_faq_db
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./data/chroma:/data/chroma
+      - ./data/documents:/data/documents
+      - ./scripts:/app/scripts
+      - ./config:/app/config
+    environment:
+      - CHROMA_DB_PATH=/data/chroma
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/_health"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
