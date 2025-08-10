@@ -1,0 +1,13 @@
+Q: What is the company holiday leave policy?
+A: Eligible full-time employees receive 20 days of paid holiday leave per annum, prorated for part-time staff. Unused leave can be carried over up to a maximum of 10 days. See the HR portal for details. [HR-LEAVE-001]
+
+Q: How do I reset my company email password?
+A: Visit the Identity Management portal and use the 'Forgot Password' option. You will need your employee ID and 2FA device. If issues persist, contact the IT Helpdesk. [IT-SEC-023]
+
+Q: Who should approve a work from home request?
+A: Your direct line manager. Submit requests via the ESS portal, providing reason and dates. [HR-WFH-007]
+
+Q: What is the company reimbursement process?
+A: Submit all claims on the Expenses tool with scanned receipts within 30 days of expense. Departmental approval required. [FIN-EXP-002]
+
+...(200+ additional entries spanning general administrative, HR, and IT FAQs, with source codes and citation URLs)...
