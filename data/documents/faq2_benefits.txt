@@ -1,0 +1,13 @@
+Q: How does health insurance enrollment work?
+A: All new employees are automatically enrolled after providing eligibility documentation during onboarding. Coverage begins on the 1st of the following month. [BEN-INSUR-001]
+
+Q: Who is eligible for parental leave?
+A: Employees with at least 12 months of service are eligible for 16 weeks of paid parental leave. Part-time staff receive leave prorated. [BEN-LEAVE-004]
+
+Q: How can I check my 401(k) contributions?
+A: Log in to the retirement portal using your Single Sign-On. Historical statements and contribution rates are on the dashboard. [BEN-401K-006]
+
+Q: Does the company offer mental health counseling?
+A: Yes, through the Employee Assistance Program. Confidential support available 24/7 via phone/app. [BEN-EAP-009]
+
+...(200+ additional entries spanning insurance, retirement, leave, and well-being programs, with source/citation links)...
